@@ -1,0 +1,22 @@
+{
+  "home": "Home",
+  "catalog": "Catalog",
+  "favorites": "Favorites",
+  "profile": "Profile",
+  "welcome": "Welcome to our application!",
+  "special_offers": "Special Offers",
+  "banner_1": "20% discount on tech",
+  "banner_2": "New clothing collection",
+  "price": "$ {}",
+  "add_to_fav": "Added to favorites",
+  "empty_fav": "Favorites is empty",
+  "settings": "Settings",
+  "language": "App Language",
+  "dark_theme": "Dark Theme",
+  "app_info": "About App",
+  "version": "Version 1.0.0",
+  "product_headphones": "Wireless Headphones",
+  "product_smartwatch": "Smart Watch",
+  "product_mouse": "Gaming Mouse",
+  "product_keyboard": "Mechanical Keyboard"
+}
